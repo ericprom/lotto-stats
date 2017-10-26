@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERICPROM6E29</Machine>
+    <WindowsUser>EricProm</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>262b2845-b0d1-4381-ba2d-81a02bc6dd8a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\ARM\Debug\LOTTO.STATS.exe">
+      <PackagePath>LOTTO.STATS.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\icons\appbar.magnify.png">
+      <PackagePath>Assets\icons\appbar.magnify.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\icons\appbar.sort.numeric.png">
+      <PackagePath>Assets\icons\appbar.sort.numeric.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\ARM\Debug\LOTTO.STATS.xr.xml">
+      <PackagePath>LOTTO.STATS.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

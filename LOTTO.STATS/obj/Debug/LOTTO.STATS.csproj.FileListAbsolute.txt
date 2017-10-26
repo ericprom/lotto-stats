@@ -1,0 +1,98 @@
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\App.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\MainPage.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.xr.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.exe
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.pdb
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\resources.pri
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\AppxManifest.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.build.appxrecipe
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.g.i.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.g.i.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.xaml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.xaml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\XamlSaveStateFile.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.exe
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.pdb
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.csproj.GenerateResource.Cache
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\priconfig.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\priconfig.xml.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\layout.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\layout.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\resources.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\resources.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\pri.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\pri.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\qualifiers.txt
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\qualifiers.txt.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\ProjectArchitectures.txt
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.csprojResolveAssemblyReference.cache
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\App.xbf
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\MainPage.xbf
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.xr.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.exe
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.pdb
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\resources.pri
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\AppxManifest.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\LOTTO.STATS.build.appxrecipe
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.csprojResolveAssemblyReference.cache
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.g.i.cs
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.g.cs
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.g.i.cs
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.g.cs
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.xaml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.xaml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\App.xbf
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\MainPage.xbf
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\XamlSaveStateFile.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.exe
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.pdb
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\LOTTO.STATS.csproj.GenerateResource.Cache
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\priconfig.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\priconfig.xml.intermediate
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\layout.resfiles
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\layout.resfiles.intermediate
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\resources.resfiles
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\resources.resfiles.intermediate
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\pri.resfiles
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\pri.resfiles.intermediate
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\qualifiers.txt
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\qualifiers.txt.intermediate
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\EricProm\Documents\lotto-stats\LOTTO.STATS\LOTTO.STATS\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\ericprom\documents\lotto-stats\lotto.stats\lotto.stats\obj\arm\release\intermediatexaml\lotto.stats.exe" HashGuid="57a339ce-2a36-358e-46d5-5ff816188b87" />
+    <ReferenceAssembly PathName="c:\users\ericprom\documents\lotto-stats\lotto.stats\packages\newtonsoft.json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="225745d8-3693-ad6f-ebd5-8845d81f8e0f" />
+    <ReferenceAssembly PathName="c:\users\ericprom\documents\lotto-stats\lotto.stats\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="9b581ce9-a3d5-c68e-4833-5c7b7f7772c7" />
+    <ReferenceAssembly PathName="c:\users\ericprom\documents\lotto-stats\lotto.stats\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
